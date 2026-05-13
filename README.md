@@ -21,24 +21,25 @@ Unused EC2 instances are automatically stopped based on schedules or monitoring 
 - Scheduled monitoring
 - Reduced manual effort
 
-  ## 📸 Project Screenshots
+ ## 📸 Project Screenshots
 
 ### 1. Python Script
-This shows the automation script used for AWS cost optimization.
-![Script](script.png)
+This is the automation script used for AWS cost optimization.
+
+[View Python Script](cost_optimizer.py)
 
 ### 2. Lambda Function
 This shows the Lambda function configuration.
-![Lambda](lambda.png)
+![Lambda](Lambda%20Create.png)
 
 ### 3. EC2 Instances
 This shows the EC2 instances before automation.
-![Instances](instances.png)
+![Instances](Instances.png)
 
 ### 4. Automation Output 1
 This shows successful execution of the optimizer.
-![Output1](output1.png)
+![Output1](EC2_cost_optimizer-1.png)
 
 ### 5. Automation Output 2
 This shows the final optimization result.
-![Output2](output2.png)
+![Output2](EC2_cost_optimizer-2.png)
